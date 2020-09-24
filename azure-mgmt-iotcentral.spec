@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-iotcentral
 Version  : 3.0.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/66/51/aab8a442dca004f4e2d71c33e15a9d7a15149a0bdb382a7409912c998e19/azure-mgmt-iotcentral-3.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/66/51/aab8a442dca004f4e2d71c33e15a9d7a15149a0bdb382a7409912c998e19/azure-mgmt-iotcentral-3.0.0.zip
 Summary  : Microsoft Azure IoTCentral Management Client Library for Python
