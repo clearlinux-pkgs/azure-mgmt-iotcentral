@@ -1,5 +1,5 @@
 PKG_NAME := azure-mgmt-iotcentral
-URL = https://files.pythonhosted.org/packages/66/51/aab8a442dca004f4e2d71c33e15a9d7a15149a0bdb382a7409912c998e19/azure-mgmt-iotcentral-3.0.0.zip
+URL = https://files.pythonhosted.org/packages/a2/92/f6bf84b381249b2071c3f3a9d2b92ddca608c0c183c985a5607e6269e80d/azure-mgmt-iotcentral-3.1.0.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
